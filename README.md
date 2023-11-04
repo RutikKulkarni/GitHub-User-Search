@@ -22,3 +22,13 @@ GitHub User Search is a web application that allows users to search for GitHub p
    ```bash
    git clone https://github.com/RutikKulkarni/GitHub-User-Search.git
    ```
+
+2. Open the project folder in your code editor.
+3. Open the index.html file in your web browser or host the project on a local server.
+
+## Usage
+
+1. Enter the GitHub username of the user you want to search for in the input field.
+2. Click the "Search" button or press Enter.
+3. The user's profile information will be displayed on the page if found.
+4. If the user is not found, an error message will be displayed.
