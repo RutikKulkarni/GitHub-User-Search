@@ -32,3 +32,7 @@ GitHub User Search is a web application that allows users to search for GitHub p
 2. Click the "Search" button or press Enter.
 3. The user's profile information will be displayed on the page if found.
 4. If the user is not found, an error message will be displayed.
+
+## Screenshot
+
+![image](https://github.com/RutikKulkarni/GitHub-User-Search/assets/86470947/d6c8f2ce-8f47-49ed-a926-e07cfd81241d)
