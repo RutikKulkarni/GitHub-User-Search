@@ -36,3 +36,7 @@ GitHub User Search is a web application that allows users to search for GitHub p
 ## Screenshot
 
 ![image](https://github.com/RutikKulkarni/GitHub-User-Search/assets/86470947/d6c8f2ce-8f47-49ed-a926-e07cfd81241d)
+
+## Visit the Website
+
+You can access the To-Do App Project by visiting the [GitHub Pages website](https://rutikkulkarni.github.io/To-Do-App-Project/).
